@@ -1,5 +1,7 @@
 # 💼 AI Resume & Adzuna Job Matcher
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+
 A zero-friction, intelligent web application built with **Python** and **Streamlit** that parses user resume PDFs using **Gemini AI**, extracts key professional attributes, and fetches verified live job openings using the **Adzuna API**.
 
 ---
