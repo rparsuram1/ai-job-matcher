@@ -2,6 +2,8 @@
 
 🚀 **[View Live Streamlit App](https://ai-job-matcher-test.streamlit.app/)**
 
+> NOTE: Hosted on Streamlit Community Cloud, which hibernates apps after 12 hours of inactivity. If the app is asleep, click **"Yes, get this app back up!"** and allow 30–60 seconds for it to boot.
+
 A zero-friction, intelligent web application built with **Python** and **Streamlit** that parses user resume PDFs using **Gemini AI**, extracts key professional attributes, and fetches verified live job openings using the **Adzuna API**.
 
 ---
